@@ -6,7 +6,11 @@
 
   <groupId>com.artcruz</groupId>
   <artifactId>spring-microservices</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>customer</module>
+  </modules>
 
   <name>spring-microservices</name>
   <!-- FIXME change it to the project's website -->
@@ -14,8 +18,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
     <spring.boot.maven.plugin.version>2.5.7</spring.boot.maven.plugin.version>
     <spring.boot.maven.dependency.version>2.5.7</spring.boot.maven.dependency.version>
   </properties>
