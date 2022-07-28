@@ -1,6 +1,6 @@
 package com.artcruz.customer.api.controller;
 
-import com.artcruz.customer.api.requests.CustomerRegistrationRequest;
+import com.artcruz.customer.api.request.CustomerRegistrationRequest;
 import com.artcruz.customer.service.CustomerService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

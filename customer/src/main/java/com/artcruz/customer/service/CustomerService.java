@@ -1,6 +1,6 @@
 package com.artcruz.customer.service;
 
-import com.artcruz.customer.api.requests.CustomerRegistrationRequest;
+import com.artcruz.customer.api.request.CustomerRegistrationRequest;
 import com.artcruz.customer.model.repository.CustomerRepository;
 import com.artcruz.customer.model.entity.Customer;
 import org.springframework.beans.factory.annotation.Autowired;

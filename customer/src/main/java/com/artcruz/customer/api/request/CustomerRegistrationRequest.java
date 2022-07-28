@@ -1,4 +1,4 @@
-package com.artcruz.customer.api.requests;
+package com.artcruz.customer.api.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
