@@ -1,0 +1,8 @@
+/home/arthur/Documents/projects/spring-microservices/customer/src/main/java/com/artcruz/customer/CustomerApplication.java
+/home/arthur/Documents/projects/spring-microservices/customer/src/main/java/com/artcruz/customer/api/controller/CustomerController.java
+/home/arthur/Documents/projects/spring-microservices/customer/src/main/java/com/artcruz/customer/service/CustomerService.java
+/home/arthur/Documents/projects/spring-microservices/customer/src/main/java/com/artcruz/customer/api/request/CustomerRegistrationRequest.java
+/home/arthur/Documents/projects/spring-microservices/customer/src/main/java/com/artcruz/customer/api/response/FraudCheckResponse.java
+/home/arthur/Documents/projects/spring-microservices/customer/src/main/java/com/artcruz/customer/model/entity/Customer.java
+/home/arthur/Documents/projects/spring-microservices/customer/src/main/java/com/artcruz/customer/config/CustomerConfig.java
+/home/arthur/Documents/projects/spring-microservices/customer/src/main/java/com/artcruz/customer/model/repository/CustomerRepository.java
